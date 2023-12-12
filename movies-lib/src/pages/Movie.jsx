@@ -1,9 +1,11 @@
+import { Navbar } from "../components/navbar"
+
 export const Movie = () => {
 
     return(
 
         <div>
-            Movie
+            <Navbar />
         </div>
 
     )
